@@ -2,7 +2,7 @@ package problems;
 
 import java.util.Stack;
 
-public class Three {
+public class P3 {
     public Long result(long  i) {
         Stack<Long> stack = new Stack<>();
 

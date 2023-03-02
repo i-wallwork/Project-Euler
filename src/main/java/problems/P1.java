@@ -1,11 +1,11 @@
 package problems;
 
-public class One {
+public class P1 {
 
     int first;
     int second;
 
-    public One(int first, int second) {
+    public P1(int first, int second) {
         this.first = first;
         this.second = second;
     }

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Two {
+public class P2 {
     public int evens() {
         int count = 0;
         for (int num : fibonnaci()) {

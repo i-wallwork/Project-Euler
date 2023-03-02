@@ -1,6 +1,6 @@
 package problems;
 
-public class Four {
+public class P4 {
     public int result() {
         int highest = 0;
         for (int i = 0; i < 1000; i++) {
